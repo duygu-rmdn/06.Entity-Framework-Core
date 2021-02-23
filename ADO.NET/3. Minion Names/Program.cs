@@ -36,7 +36,7 @@ namespace _03._Minion_Names
             SqlCommand getMinionsCmd = new SqlCommand(getMinions, sqlConnection);
 
             getMinionsCmd.Parameters.AddWithValue("@Id", villainId);
-            SqlDataReader reader = getMinionsCmd.ExecuteReader();
+            using SqlDataReader reader = getMinionsCmd.ExecuteReader();
 
             StringBuilder sb = new StringBuilder();
             sb.AppendLine($"Villain: {villainName}");

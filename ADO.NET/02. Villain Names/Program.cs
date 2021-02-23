@@ -20,7 +20,7 @@ namespace _02._Villain_Names
 
             SqlCommand command = new SqlCommand(getVillainNames, sqlConnection);
 
-            SqlDataReader reader = command.ExecuteReader();
+            using SqlDataReader reader = command.ExecuteReader();
 
             while (reader.Read())
             {

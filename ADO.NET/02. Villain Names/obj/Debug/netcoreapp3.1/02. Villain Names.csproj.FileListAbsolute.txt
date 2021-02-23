@@ -38,3 +38,4 @@ C:\Users\HP\source\repos\06.Entity Framework Core\ADO.NET\02. Villain Names\obj\
 C:\Users\HP\source\repos\06.Entity Framework Core\ADO.NET\02. Villain Names\obj\Debug\netcoreapp3.1\02. Villain Names.dll
 C:\Users\HP\source\repos\06.Entity Framework Core\ADO.NET\02. Villain Names\obj\Debug\netcoreapp3.1\02. Villain Names.pdb
 C:\Users\HP\source\repos\06.Entity Framework Core\ADO.NET\02. Villain Names\obj\Debug\netcoreapp3.1\02. Villain Names.genruntimeconfig.cache
+C:\Users\HP\source\repos\06.Entity Framework Core\ADO.NET\02. Villain Names\obj\Debug\netcoreapp3.1\02. Villain Names.csprojAssemblyReference.cache

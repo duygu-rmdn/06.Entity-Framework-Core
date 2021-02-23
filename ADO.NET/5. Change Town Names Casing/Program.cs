@@ -37,7 +37,7 @@ namespace _5._Change_Town_Names_Casing
             command = new SqlCommand(getTownsQuery, connection);
             command.Parameters.AddWithValue("@countryName", input);
 
-            SqlDataReader reader = command.ExecuteReader();
+            using SqlDataReader reader = command.ExecuteReader();
 
             List<string> towns = new List<string>();
             while (reader.Read())

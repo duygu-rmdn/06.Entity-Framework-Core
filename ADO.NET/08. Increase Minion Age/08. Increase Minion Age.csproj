@@ -6,4 +6,8 @@
     <RootNamespace>_08._Increase_Minion_Age</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="2.1.1" />
+  </ItemGroup>
+
 </Project>

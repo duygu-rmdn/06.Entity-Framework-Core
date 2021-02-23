@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ScjoUYUAkx/G0rmkgGp/l6tr2NrS/7ctJgdHZ6wnAiXm/ONSRJ3LaDiesYg3Z1PyZsoRTqe4TSuQcOrHY8kD1Q==",
+  "dgSpecHash": "9czj8Zxb8qMF9gEcRHFjAz81wW9jkY8Y8Un2tWrn0a56aUa8cCb8nuM7nX3x40K7ZZ7fDoHXzjVMzNowNH/6OA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\source\\repos\\06.Entity Framework Core\\ADO.NET\\ConsoleApp1\\Initial Setup.csproj",
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\06.Entity Framework Core\\ADO.NET\\02. Villain Names\\02. Villain Names.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.1\\microsoft.data.sqlclient.2.1.1.nupkg.sha512",

@@ -1208,11 +1208,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\06.Entity Framework Core\\ADO.NET\\ConsoleApp1\\Initial Setup.csproj",
-      "projectName": "Initial Setup",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\06.Entity Framework Core\\ADO.NET\\ConsoleApp1\\Initial Setup.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\06.Entity Framework Core\\ADO.NET\\02. Villain Names\\02. Villain Names.csproj",
+      "projectName": "02. Villain Names",
+      "projectPath": "C:\\Users\\HP\\source\\repos\\06.Entity Framework Core\\ADO.NET\\02. Villain Names\\02. Villain Names.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\06.Entity Framework Core\\ADO.NET\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\HP\\source\\repos\\06.Entity Framework Core\\ADO.NET\\02. Villain Names\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

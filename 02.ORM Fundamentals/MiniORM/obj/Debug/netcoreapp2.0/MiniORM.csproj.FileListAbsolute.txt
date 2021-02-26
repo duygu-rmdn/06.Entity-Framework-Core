@@ -1,0 +1,4 @@
+C:\Users\HP\source\repos\06.Entity Framework Core\New folder\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\06.Entity Framework Core\New folder\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\06.Entity Framework Core\New folder\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfo.cs
+C:\Users\HP\source\repos\06.Entity Framework Core\New folder\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csproj.CoreCompileInputs.cache

@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "dWe+VcEsTVt+13Hmqv5zqG2K6OBJXUBnC9RUwXASblC/NQuvdJI73eArpAFPv26j06QSBrh+eQY2pDC5n5YLsw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\06.Entity Framework Core\\02.ORM Fundamentals\\MiniORM.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\HP\\source\\repos\\06.Entity Framework Core\\MiniORM\\MiniORM.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\HP\\source\\repos\\06.Entity Framework Core\\MiniORM\\MiniORM.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.0"
+      ]
+    }
+  ]
+}

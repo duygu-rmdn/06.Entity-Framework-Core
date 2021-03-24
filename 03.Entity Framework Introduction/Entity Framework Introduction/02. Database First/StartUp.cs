@@ -18,13 +18,13 @@ namespace SoftUni
             //string addNewAddressToEmployee = AddNewAddressToEmployee(context);
             //string getEmployeesInPeriod = GetEmployeesInPeriod(context);
             //string getAddressesByTown = GetAddressesByTown(context);
-            //string getEmployee147 = GetEmployee147(context);
+            string getEmployee147 = GetEmployee147(context);
             //string getDepartmentsWithMoreThan5Employees = GetDepartmentsWithMoreThan5Employees(context);
             //string getLatestProjects = GetLatestProjects(context);
             //string increaseSalaries = IncreaseSalaries(context);
             //string getEmployeesByFirstNameStartingWithSa = GetEmployeesByFirstNameStartingWithSa(context);
             //string deleteProjectById = DeleteProjectById(context);
-            string removeTown = RemoveTown(context);
+            //string removeTown = RemoveTown(context);
             Console.WriteLine(removeTown);
         }
         //P15:
@@ -204,7 +204,7 @@ namespace SoftUni
         public static string GetEmployee147(SoftUniContext context)
         {
             StringBuilder sb = new StringBuilder();
-            var empoyee147 = context.Employees
+            var employee147 = context.Employees
                 .Where(e => e.EmployeeId == 147)
                 .Select(e => new
                 {
@@ -217,9 +217,9 @@ namespace SoftUni
                     .ToList()
                 }).FirstOrDefault();
 
-            sb.AppendLine($"{empoyee147.FirstName} {empoyee147.LastName} - {empoyee147.JobTitle}");
+            sb.AppendLine($"{employee147.FirstName} {employee147.LastName} - {employee147.JobTitle}");
 
-            foreach (var project in empoyee147.Procects)
+            foreach (var project in employee147.Procects)
             {
                 sb.AppendLine(project);
             }

@@ -4964,11 +4964,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Entity Relations\\P01_StudentSystem\\P01_StudentSystem.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\06.Entity Framework Core\\04.Entity Relations\\P01_StudentSystem\\P01_StudentSystem.csproj",
       "projectName": "P01_StudentSystem",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\Entity Relations\\P01_StudentSystem\\P01_StudentSystem.csproj",
+      "projectPath": "C:\\Users\\HP\\source\\repos\\06.Entity Framework Core\\04.Entity Relations\\P01_StudentSystem\\P01_StudentSystem.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\Entity Relations\\P01_StudentSystem\\obj\\",
+      "outputPath": "C:\\Users\\HP\\source\\repos\\06.Entity Framework Core\\04.Entity Relations\\P01_StudentSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

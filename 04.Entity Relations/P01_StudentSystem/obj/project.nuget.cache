@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fBynBccLSKsmXv2fRojIPAXGft8CdP4L3ec5FB2zzJlZN/qUo2wAa03B7hDMKPWlOODMBHO/K6xcnBCSLbeoHA==",
+  "dgSpecHash": "Krmo0RfKlA06cnr+luZRuz9F5XN5ol36DussBt2ZUTjfLEX8qeUBaW1TqZ2OI2Ib/7I/1llMfCj6/y8KEy6hpw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Entity Relations\\P01_StudentSystem\\P01_StudentSystem.csproj",
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\06.Entity Framework Core\\04.Entity Relations\\P01_StudentSystem\\P01_StudentSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

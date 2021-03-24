@@ -4964,11 +4964,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Entity Relations\\P03_FootballBetting\\P03_FootballBetting.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\06.Entity Framework Core\\04.Entity Relations\\P03_FootballBetting\\P03_FootballBetting.csproj",
       "projectName": "P03_FootballBetting",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\Entity Relations\\P03_FootballBetting\\P03_FootballBetting.csproj",
+      "projectPath": "C:\\Users\\HP\\source\\repos\\06.Entity Framework Core\\04.Entity Relations\\P03_FootballBetting\\P03_FootballBetting.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\Entity Relations\\P03_FootballBetting\\obj\\",
+      "outputPath": "C:\\Users\\HP\\source\\repos\\06.Entity Framework Core\\04.Entity Relations\\P03_FootballBetting\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

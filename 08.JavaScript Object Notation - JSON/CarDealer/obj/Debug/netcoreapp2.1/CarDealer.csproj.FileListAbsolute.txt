@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\06.Entity Framework Core\08.JavaScript Object Notation - JSON\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\06.Entity Framework Core\08.JavaScript Object Notation - JSON\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\06.Entity Framework Core\08.JavaScript Object Notation - JSON\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfo.cs
+C:\Users\HP\source\repos\06.Entity Framework Core\08.JavaScript Object Notation - JSON\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\06.Entity Framework Core\08.JavaScript Object Notation - JSON\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.deps.json
+C:\Users\HP\source\repos\06.Entity Framework Core\08.JavaScript Object Notation - JSON\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.json
+C:\Users\HP\source\repos\06.Entity Framework Core\08.JavaScript Object Notation - JSON\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.dev.json
+C:\Users\HP\source\repos\06.Entity Framework Core\08.JavaScript Object Notation - JSON\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.dll
+C:\Users\HP\source\repos\06.Entity Framework Core\08.JavaScript Object Notation - JSON\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.pdb
+C:\Users\HP\source\repos\06.Entity Framework Core\08.JavaScript Object Notation - JSON\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.dll
+C:\Users\HP\source\repos\06.Entity Framework Core\08.JavaScript Object Notation - JSON\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.pdb
+C:\Users\HP\source\repos\06.Entity Framework Core\08.JavaScript Object Notation - JSON\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.genruntimeconfig.cache
